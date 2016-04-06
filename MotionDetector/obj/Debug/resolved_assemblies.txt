@@ -1,0 +1,9 @@
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\MotionDetector.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\mscorlib.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\System.Core.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\System.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\System.Xml.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\William\Desktop\myxamarin\recipes\android\os_device_resources\accelerometer\get_accelerometer_readings\MotionDetector\obj\Debug\assemblies\System.ServiceModel.Internals.dll
